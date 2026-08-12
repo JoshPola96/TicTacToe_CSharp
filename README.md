@@ -1,5 +1,7 @@
 # Tic-Tac-Toe
 
+> **Scope** · Language-fundamentals exercise — published as-is.
+
 This is a basic console-based Tic-Tac-Toe game implemented in C# as a practice while working on a C# certification course. The game allows two players to play against each other on the same machine.
 
 ## Features
